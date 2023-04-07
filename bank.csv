@@ -1,0 +1,6 @@
+age,marital,duration,campaign, pdays,previous,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed
+60,married,262,1,999,1,1.1,94.767,-36.4,4.857,4963.6
+60,single,150,2,999,1,-1.1,94.767,-36.4,1.028,5191.0
+60,unknown,230,1,999,0,1.1,93.994,-50.8,4.857,4963.6
+60,divorced,270,2,999,-1,1.1,93.994,-36.4,1.028,5191.0
+60,single,209,1,999,0,-1.1,94.767,-50.8,4.857,4963.6	
